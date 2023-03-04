@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hola, soy **Irene Álvarez**.
 
-<!--
-**irenealvarez16/irenealvarez16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ️🙋🏽‍♀️ Sobre mí
+>Tengo mucha experiencia profesional en el sector de las telecomunicaciones, he estado trabajando en una tienda como comercial / atención al cliente durante más de 10 años.
+Actualmente decidí hacer un descanso profesional en mi sector porque me gustaría crecer en otros sectores con el trabajo remoto, y me estoy formando como **desarrolladora**, inscrita en diferentes cursos online. Actualmente estoy en la **Undefined Academy**.
+# 🎓 Formación
+- HTML5 - Udemy
+- Máster en CSS - Udemy
+- OpenBootcamp 
+- Undefined Academy (_ACTUALIDAD_)
+# 💻 Experiencia profesional
+- Comercial en tienda (Movistar) - 2 años
+- Comercial en tienda (Orange) - 10 años
